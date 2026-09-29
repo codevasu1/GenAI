@@ -1,1 +1,4 @@
 commands for cli
+
+run streamlit with this command
+python -m streamlit run 3_qna_bot_with_groq.py
