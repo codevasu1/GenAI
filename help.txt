@@ -2,3 +2,6 @@ commands for cli
 
 run streamlit with this command
 python -m streamlit run 3_qna_bot_with_groq.py
+
+For uninstalling all pip package in windows, powershell cmd
+pip freeze | ForEach-Object { pip uninstall $_ -y }

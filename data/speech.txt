@@ -1,0 +1,28 @@
+
+Good morning everyone,
+
+Today I would like to talk about three important ideas that are shaping our future: Artificial Intelligence, Generative AI, and Agentic AI.
+
+Let us begin with Artificial Intelligence, or AI. In simple terms, AI is the ability of a computer system to perform tasks that normally require human intelligence. These tasks include understanding language, recognizing images, learning from data, making predictions, and solving problems. We already use AI in many parts of daily life. When a streaming service recommends a movie, when a navigation app predicts traffic, or when an email service filters spam, AI is working in the background.
+
+Traditional AI is often designed for a specific purpose. It learns patterns from existing data and then uses those patterns to make a decision or prediction. For example, an AI system can examine thousands of medical images and help identify signs of disease. It can detect unusual banking transactions or predict when a machine may need maintenance. Traditional AI is powerful, but it generally works within clearly defined rules and objectives.
+
+The next major development is Generative AI, often called Gen AI. Unlike systems that only classify or predict, Generative AI can create new content. It can write text, produce images, generate music, summarize documents, translate languages, and help create computer programs. Tools such as chatbots and coding assistants are examples of Generative AI.
+
+Gen AI works by learning from very large collections of information. It identifies relationships and patterns in that information and uses them to produce a response to a prompt. For instance, if we ask it to explain a complex scientific idea in simple language, it can generate an explanation suited to our request. This makes Gen AI a powerful partner for learning, creativity, communication, and productivity.
+
+However, we should use it thoughtfully. Generative AI can sometimes produce incorrect information, reflect bias in its training data, or present an answer with more confidence than it deserves. It may also raise questions about privacy, copyright, and the future of certain jobs. Therefore, human judgment remains essential. We should verify important information, protect sensitive data, and treat AI as an assistant rather than an unquestionable authority.
+
+Now let us look at Agentic AI. Agentic AI goes one step further. A Generative AI system usually responds to a prompt. An AI agent can take a goal, break it into smaller tasks, decide what actions are needed, use tools, observe the results, and continue working toward the goal.
+
+Imagine asking an AI agent to prepare a business report. It might search approved data sources, collect relevant information, analyze the numbers, create charts, write a draft, and ask for approval before sending the final report. Another agent might help a customer by checking an order, finding the shipping status, and arranging the next step. The important difference is that an agent does not only generate an answer; it can plan and act within a defined environment.
+
+This capability could transform workplaces. Teams may use agents to automate repetitive processes, coordinate information, monitor systems, and support decision-making. People can spend more time on creativity, empathy, strategy, and complex problems. But greater autonomy also means greater responsibility. Agents need clear permissions, reliable data, monitoring, security controls, and human oversight. We must know what an agent is allowed to do, what it actually did, and who is accountable for the outcome.
+
+Together, AI, Generative AI, and Agentic AI represent a progression. Traditional AI helps machines recognize patterns and make predictions. Generative AI helps machines create content and communicate with us. Agentic AI helps machines pursue goals and complete actions. Each stage can bring enormous benefits, but each also requires careful design and responsible use.
+
+The future will not be about humans competing with every machine. It will be about humans learning how to work effectively with intelligent systems. The most valuable skills will include asking good questions, checking information, understanding technology, thinking critically, and making ethical decisions.
+
+To conclude, AI is a tool, but it is also a responsibility. If we develop and use it with curiosity, wisdom, transparency, and respect for people, it can help us solve difficult problems and create new opportunities. The future of AI should not simply be more automated. It should be more useful, more trustworthy, and more human-centered.
+
+Thank you.
