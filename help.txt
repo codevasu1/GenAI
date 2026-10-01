@@ -5,3 +5,6 @@ python -m streamlit run 3_qna_bot_with_groq.py
 
 For uninstalling all pip package in windows, powershell cmd
 pip freeze | ForEach-Object { pip uninstall $_ -y }
+
+
+google 429 error comes when you send to embedd very large message/data
