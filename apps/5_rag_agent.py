@@ -103,6 +103,8 @@ def processDocumnetFn(path):
         checkpointer=memory,
     )
 
+    
+
     # Save the created agent and upload status for later use in the chat UI.
     st.session_state.agent = agent
     st.session_state.document_uploaded = True
